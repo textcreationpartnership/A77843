@@ -1,0 +1,222 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iudgements removed, where judgement is executed. Or A sermon preached to the Court Marshall in Lawrence Iury, London, the 5th of Septemb. 1644. Being the day of their solemn seeking of the Lord for his blessing upon their proceedings. By Anthony Burges, sometimes fellow of Emmanuell Colledge in Cambridge; now pastor of Sutton-Coldfeild in Warwickshire; a member of the Assembly.</title>
+            <author>Burgess, Anthony, d. 1664.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77843</idno>
+            <idno type="STC">Wing B5649</idno>
+            <idno type="STC">Thomason E18_15</idno>
+            <idno type="STC">ESTC R210008</idno>
+            <idno type="EEBO-CITATION">99868849</idno>
+            <idno type="PROQUEST">99868849</idno>
+            <idno type="VID">121205</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77843)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 121205)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 4:E18[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Iudgements removed, where judgement is executed. Or A sermon preached to the Court Marshall in Lawrence Iury, London, the 5th of Septemb. 1644. Being the day of their solemn seeking of the Lord for his blessing upon their proceedings. By Anthony Burges, sometimes fellow of Emmanuell Colledge in Cambridge; now pastor of Sutton-Coldfeild in Warwickshire; a member of the Assembly.</title>
+                  <author>Burgess, Anthony, d. 1664.</author>
+               </titleStmt>
+               <extent>[6], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by M. Simmons for Thomas Underhill, at the Bible in Woodstreet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a preliminary order to print.</note>
+                  <note>Annotation on Thomason copy: "Nouemb: 26:".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms CVI, 30-31 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:121205:1" rendition="simple:additions"/>
+            <p>IVDGEMENTS REMOVED, VVHERE JUDGEMENT IS EXECUTED.</p>
+            <p>OR A SERMON PREACHED to the Court Marſhall in <hi>Lawrence Iury, London,</hi> the 5<hi rend="sup">th</hi> of <hi>Septemb.</hi> 1644. Being the day of their ſolemn ſeeking of the Lord for his bleſſing upon their Proceedings.</p>
+            <p>
+               <hi>By</hi> ANTHONY BURGES, ſome<g ref="char:EOLhyphen"/>times Fellow of <hi>Emmanuell</hi> Colledge in <hi>Cambridge;</hi> Now Paſtor of <hi>Sutton-Cold<g ref="char:EOLhyphen"/>feild</hi> in <hi>Warwickſhire;</hi> a Member of the Aſſembly.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>M. Simmons</hi> for <hi>Thomas Underhill,</hi> at the Bible in <hi>Woodſtreet.</hi> 1644.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:121205:2"/>
+            <pb facs="tcp:121205:2"/>
+            <head>TO THE HONORABLE The Commiſſioners OF THE COUNCELL OF WARRE, now ſitting by an Ordinance of <hi>PARLIAMENT.</hi>
+            </head>
+            <opener>
+               <salute>HONORABLE;</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Owſoever the feare of God be not thought neceſſary to human Judges by men of the world, yet the Scrip<g ref="char:EOLhyphen"/>ture doth much preſſe it, <hi>Exod.</hi> 18.21. 2 <hi>Chron.</hi> 9.7. Yea, ſome Heathens have acknowledged the neceſ<g ref="char:EOLhyphen"/>ſity of it, therefore amongſt the Ancients the court of Judgement was neare the Temple, that ſo the reverence of their gods might bend the minds of
+<pb facs="tcp:121205:3"/>Judges to Juſtice. And they report that in <hi>Aethio<g ref="char:EOLhyphen"/>pia,</hi> the Judges ſitting in their Court, leave twelve ſeats in the higheſt place empty, which (they ſay) are the Angels ſeats. Therefore <hi>he was the unjuſt Iudge in the Parable, that did not feare God, nor re<g ref="char:EOLhyphen"/>ſpect man;</hi> Such an one was <hi>Ageſilaus,</hi> who wrote to a Captain for a priſoner in theſe words; <hi>Re<g ref="char:EOLhyphen"/>leaſe</hi> Nicias <hi>the priſoner without faile; for if he have not offended, in Iuſtice you are to diſmiſſe him; but of he have hainouſly offended, and deſerved puniſhment, then diſmiſſe him for my ſake.</hi> Here he mingled pri<g ref="char:EOLhyphen"/>vate affections in publick adminiſtrations, which is very ſinfull. Therefore that you may avoid ſuch rocks, eſpecially conſider, that Argument of the Scripture, <hi>It is the Iudgement of the Lord; Iudicium Dei eſt,</hi> (ſaith a Schoolman) <hi>ideo Iudex in tribus Deo debei conformari, in poteſtate, in bonitate, &amp; in veri<g ref="char:EOLhyphen"/>tate; It is the Iudgement of the Lord;</hi> therefore the Judge ought to reſemble God, while he judgeth in power, in goodneſſe, and in truth. All which if you doe, the Kingdome may be freed from guilt, truth and peace may kiſſe each other, and you deliver your own ſoules; Which is the ear<g ref="char:EOLhyphen"/>neſt prayer of him who deſires to ſerve you in the Lord;</p>
+            <closer>
+               <signed>ANTHONY BURGES.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:121205:3"/>
+            <head>JUDGEMENTS REMOVED, VVHERE JUDGEMENT IS EXECUTED.</head>
+            <epigraph>
+               <q>
+                  <bibl>PSAL. 106.30, 31.</bibl>
+                  <p>Then ſtood up Phinehas, and executed judgement, and ſo the plague was ſtayed; and that was counted unto him for righteouſneſſe unto all generations for evermore.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He Text is a cleare mirror, and glaſſe of ju<g ref="char:EOLhyphen"/>ſtice, wherein you have all the neceſſaries requiſite to a righteous action; There is <hi>Juſtus,</hi> the perſon righteous; <hi>juſtum,</hi> the matter and fact righteous; and <hi>juſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>è,</hi> this righteous fact done righteouſly.</p>
+            <p>The righteous perſon is deſcribed, by his name <hi>Phinehas;</hi> It is not worth the while to meddle in the diſpute amongſt Popiſh Authors, whe<g ref="char:EOLhyphen"/>ther becauſe of the promiſe made to him, <hi>Numb.</hi> 25. to wit, <hi>A Cove<g ref="char:EOLhyphen"/>nant of peace for ever,</hi> that therefore <hi>Phinehas</hi> be yet alive, and kept till the day of judgement; as they conceive of <hi>Enoch.</hi>
+            </p>
+            <p>Secondly, The juſt Actions are two; Firſt, <hi>He ſtood up;</hi> how<g ref="char:EOLhyphen"/>ſoever this word be uſed for thoſe that miniſter and ſerve; there<g ref="char:EOLhyphen"/>fore the Angels are called (<hi>Zach.</hi> 3.) <hi>Standers;</hi> yet in other places
+<pb n="2" facs="tcp:121205:4"/>it doth denote <hi>Firmneſſe,</hi> and <hi>Stabilitie;</hi> Hence the word that ſig<g ref="char:EOLhyphen"/>nifies a <hi>Pillar,</hi> cometh from this root. <hi>Ezekiel</hi> 22. <hi>Can thy heart en<g ref="char:EOLhyphen"/>dure?</hi> in the Hebrew, <hi>Can it ſtand?</hi> And thus here it implies, the Courage, the Fervency, and Zeale of <hi>Phinehas.</hi> The ſecond juſt Action is, <hi>he executed juſtice.</hi> Some read, <hi>he prayed;</hi> and ſo the Chaldee Paraphraſe; the root in the Originall doth indeed in one Conjugation ſignifie <hi>to praiſe,</hi> but in the other which is here in the Text, it ſignifies <hi>to adjudge, and to condemne;</hi> for ſo <hi>Phinehas</hi> did both judge, and execute this judgement! therefore <hi>Gregory Nyſſen</hi> calls him, both the <hi>Judge</hi> and the <hi>Executioner.</hi> What the Delin<g ref="char:EOLhyphen"/>quents were, you may read <hi>Numb.</hi> 25.</p>
+            <p>Laſtly, That this was <hi>juſtè,</hi> righteouſly done, appeares by a two<g ref="char:EOLhyphen"/>fold effect, or reward; Firſt, Publike, <hi>the plague ceaſed;</hi> the <hi>plague,</hi> the word ſignifies any kinde of ſtriking; and therefore what this <hi>plague</hi> was, is not recorded. The other Effect, is private and per<g ref="char:EOLhyphen"/>ſonall, <hi>It was imputed to him for righteouſneſſe;</hi> Not as Faith was to <hi>Abraham;</hi> for that was a righteouſneſſe of the perſon, and univer<g ref="char:EOLhyphen"/>ſall for juſtification; but this is of a fact, and particular; and the ſenſe is, it was approved of by God for a juſt act; whereas other<g ref="char:EOLhyphen"/>wiſe it might have been doubted of; Although ſome thinke, what he did here, was done by command of the Elders, and Judges.</p>
+            <p>The Doctrine: <hi>When men execute their juſt judgements, then God removes his.</hi>
+            </p>
+            <p>Firſt, We will ſhew the neceſſitie of Juſtice, and that flows from divers ſtreames.</p>
+            <p>Firſt, From God, who (beſides thoſe many commands for ju<g ref="char:EOLhyphen"/>ſtice) ſhews that all their other religious Sacrifices, were rejected for want of this. <hi>Iſaiah</hi> 1. As long as their hands were full of bloud, how doth he loath their Ordinances? therefore it is not enough to reforme, nor to ſet up a good Miniſtery, to aboliſh corruption, unleſſe alſo the juſt judgements of the Lord be executed: The will of the Lord is to be done, not onely in the Aſſemblies for Worſhip, but alſo in Judicatories: And you may obſerve in the Prophet, that commonly thoſe two ſinnes are linked together, <hi>Idolatry and Bloud.</hi> And had not <hi>England</hi> the experience of this? Are wee to
+<pb n="3" facs="tcp:121205:4"/>this day cleanſed either from the one, or the other? Yea to doe juſtice is an acceptable ſervice, <hi>Pinguior mactari Deo victima non po<g ref="char:EOLhyphen"/>teſt quam homo ſceleratus;</hi> ſo that the high prize which is put upon this ſervice of him, may make men couragious and faithfull; And certainly the Acts of Juſtice, are ſo apt to be obſtructed, that un<g ref="char:EOLhyphen"/>leſſe a man look up to God, he can never beare up his heart in them.</p>
+            <p>Secondly, From our ſelves; We ſhall hereby be freed from the guilt of others; For where Juſtice is not executed, there a whole Kingdome is defiled. Now to have other mens ſinnes become ours, to have the bloud of <hi>Ireland,</hi> all thoſe outrageous inſolencies there, and in <hi>England,</hi> to become our ſinnes, this is terrible. The ſinnes of others may become ours negatively as well as poſitively, when we doe not humble our ſelves, when we doe not labour a Refor<g ref="char:EOLhyphen"/>mation; therefore the Prophet complained, that <hi>there was none who called for juſtice.</hi> It was a ſin in the people, not to pray for it, and deſire it. And this is the reaſon, why in publick calamities, the righteous periſh as well as the wicked, becauſe they get ſome infection, when the plague is generall. You ſay the plots and the conſpiracies of enemies, they ruine and undoe us, but may not alſo our ſinnes in civill Judicatories undoe us?</p>
+            <p>Thirdly, We ſhall hereby prevent the publick judgement that may come upon a Land; As neglect of Juſtice brings other mens ſinnes upon us, ſo alſo it uſhers in all publick calamities; See what <hi>Achan,</hi> what <hi>Sauls</hi> ſons unpuniſhed did bring upon the Nation; therefore <hi>Zach.</hi> 8.16. It is ſaid; <hi>Execute the judgement of truth and peace in your gates;</hi> Juſtice brings peace; contrary to the ſinfull thoughts of many, who think that this is the way to ſpoile all. And we have the rather cauſe to look to this, becauſe the Impriſon<g ref="char:EOLhyphen"/>ments, the Injuſtice that hath been done upon the godly, and faithfull men upon the earth, may ſtill cry; their impriſonments, their baniſhments, their death may ſtill cry for vengeance. Juſtice is called by <hi>Ariſtotle, Heſperus,</hi> the <hi>Glorious Starre;</hi> yea, it is the Sun of the world; Therefore conſider, If you ſtand up like <hi>Phinehas</hi> with pure zeale, to doe the judgement of the Lord, it may be the warre ſhall ceaſe, Gods anger ſhall be appeaſed; it may be when the <hi>Jonahs</hi> are out, the Ship will be quiet. And certainly how can
+<pb n="4" facs="tcp:121205:5"/>we pray, that the Lord would be avenged on the Crueltie, and the Bloudineſſe of the wretched Adverſary, if we our ſelves will not doe it when we may?</p>
+            <p>Fourthly, It is neceſſary, in regard of others; If they be good, then to ſpare the bad, it is cruelty to them. <hi>Amos</hi> 5. obſerve that phraſe, of <hi>turning juſtice into Wormwood;</hi> which implies that Ju<g ref="char:EOLhyphen"/>ſtice of it ſelfe is ſweet, even as honey, and the neglect of it is Wormwood: <hi>Qui malis parcit, piis nocet;</hi> To let the Lions and Beares alone, it is to wrong the Sheep and Lambe. And therefore this may ſerve to reprove all ſinfull Mildneſſe and Lenitie; When you pittie the Bad, you are hard-hearted to the Good: you pittie the Delinquent crying, and you never thinke how the innocent Land and Nation would have cryed. I doe not ſpeake againſt true Clemency, but I ſhew the dutie in the generall. If you will pittie a <hi>Cataline,</hi> pittie <hi>Rome</hi> much more. Beſides, pittie the whole, ra<g ref="char:EOLhyphen"/>ther then the part: <hi>Pereat unus magis quam unit as:</hi> So that there is no juſt publick act, though it ſeeme never ſo ſevere in reſpect of a perſon, yet it is a mercifull act to the Common-wealth: you had better have one Malefactor ſit mourning, then a whole King<g ref="char:EOLhyphen"/>dome.</p>
+            <p>Fifthly, If others be bad, Juſtice is neceſſary, becauſe other<g ref="char:EOLhyphen"/>wiſe you encourage them in their impietie; and this ought much to be laid to heart. If wicked men abuſe the Patience of God, they will much more abuſe mens Patience. One end of Juſtice is to ſtrike terror into others, that they may be afraid; and when you ſinfully acquit men, if they doe wickedneſſe afterwards, it is not ſo much they that doe it, but you. It was an ingenuous ac<g ref="char:EOLhyphen"/>knowledgement of an Emperour, who when a man had commit<g ref="char:EOLhyphen"/>ted wilfull murther, and friends importuning for him, he was re<g ref="char:EOLhyphen"/>leaſed; but preſently after, he commits murther againe; then complaint was againe made of him to the Emperour, as being twice guiltie of murther; <hi>No,</hi> (ſaith the Emperour) <hi>he is guiltie of the former onely, I am guiltie of the latter.</hi> And ſo if you acquit the ungodly, and they run afterwards into vile enormities, what will men ſay? Yea what will your Conſciences ſay? It is not they that are guiltie, it is we that are guiltie, we have thus murthered, we have thus deſtroyed, not they.</p>
+            <pb n="5" facs="tcp:121205:5"/>
+            <p>Sixthly, It is neceſſary, in reſpect of the Malefactors themſelves; for theſe acts of <hi>Juſtice,</hi> being the appointment of God, they may be bleſſed by him, to the awakening and rouzing of mens conſciences; it is to make them ſee their pride, their wic<g ref="char:EOLhyphen"/>kedneſſe; God hath ſuffered all this to fall upon them, in mercy to their ſoules: It is a very uncharitable opinion of the <hi>Socinians,</hi> That none of thoſe, who die as Malefactors, for their wickedneſſe, can be ſaved; this is againſt the tenour of the Goſpel and Mercy; but howſoever, if <hi>Juſtice</hi> do not work the ſalvation of their ſoules, yet it works to the reſtraining of their ſin; the meaſure of their wickedneſſe is the leſſe. That is a grave Speech of <hi>Seneca's: <g ref="char:V">Ʋ</g>t ne<g ref="char:EOLhyphen"/>mo pereat, niſi quem perire etiam pereuntis interſit;</hi> That none periſh but thoſe, to whom it is an advantage to periſh. Thus you ſee up<g ref="char:EOLhyphen"/>on how many foundations this act of <hi>Juſtice</hi> is built: if God, if man, if others, if our ſelves, if the Common-wealth, be looked up<g ref="char:EOLhyphen"/>on, then ought <hi>Righteouſneſſe</hi> to be exalted: I ſhall end this part with <hi>Amos</hi> 5.24. where the Prophet takes them off from all their religious duties; do not think Sacrifices, Prayers will availe, <hi>But let Righteouſneſſe run down like waters;</hi> where righteouſneſſe is com<g ref="char:EOLhyphen"/>pared to water, how welcome is it to a thirſty ground? and then it muſt <hi>run down,</hi> which denotes <hi>abundancy,</hi> and like <hi>a torrent,</hi> which denotes <hi>fervency.</hi>
+            </p>
+            <p>In the ſecond place, wee will ſhew you, how you are to doe it:</p>
+            <p n="1">1. By Prayer, and ſeeking the Lord; therefore I cannot but encourage you in that you have deſired to begin with God; and certainly there is great reaſon: for Counſell and Wiſdome, they are the gift of the Lord, and direction in theſe great matters is from him; you ſee how that prayer pleaſed God, when <hi>Solomon</hi> prayed for <hi>Wiſdome;</hi> and certainly to miſcarry here is very dan<g ref="char:EOLhyphen"/>gerous, you may ſoon provoke God, you may ſoon bring guilt upon the Kingdome, you may quickly condemn the innocent, or abſolve the guilty: and as the <hi>Danger</hi> is great, and therefore <hi>pray;</hi> ſo the <hi>Duty</hi> is hard, and therefore <hi>pray;</hi> to be void of all ſin<g ref="char:EOLhyphen"/>full affections, and partiality, all feare of men to do it, as an act of <hi>Juſtice,</hi> out of love to God; theſe things cannot be had without Prayer; for this you muſt know, that though you condemn a man
+<pb n="6" facs="tcp:121205:6"/>juſtly in regard of the Law; yet for all that, if you have carnall ends, or ſinfull aims in you, God will be avenged of you, even as if it were murther, as I ſhall ſhew you afterwards.</p>
+            <p n="2">2. By judging your ſelves for your own ſins; that is alſo neceſſa<g ref="char:EOLhyphen"/>ry to you <hi>to judge your ſelves,</hi> and <hi>to humble your ſelves before the Lord. Our Saviour,</hi> to convince the <hi>Phariſees,</hi> bids them that <hi>were without ſin, throw the firſt ſtone at the Adultereſſe;</hi> this was to imply, that men who judge others, they muſt conſider their own ſins. And cer<g ref="char:EOLhyphen"/>tainly, you have deep matter of humiliation; for is there any ſin committed by any man, the root of which is not in thy heart? may we not all acknowledge the grace of God, that wee are not <hi>Cains, Judaſes,</hi> and haply the Lord hath given up ſome delinquents to ſuch notorious ſins, becauſe of ſuch pride, or ſuch contempt of the means of grace, or ſuch ambitious deſires, for the favour of great ones, which thy heart hath been propenſe unto; <hi>Luther</hi> com<g ref="char:EOLhyphen"/>mended a man, who hearing of another fallen into a great ſin, cryed out, <hi>Hodie illi cras mihi;</hi> It is his turn now, it may be mine to morrow. It is diſputed by Divines, whether a Judge that is guilty himſelf, may condemne a malefactor, and they conclude, he may; but yet it is his great duty to ſee his own ſin.</p>
+            <p n="3">3. By doing it, as the <hi>judgement of the Lord:</hi> ſo in the <hi>Chro<g ref="char:EOLhyphen"/>nicles,</hi> in <hi>Deuteronomy,</hi> it is called <hi>the judgement of the Lord;</hi> you are in the Lords ſtead, and therefore to do it, as the Lord would do it: <hi>Jus dicere,</hi> is <hi>res ſacra,</hi> it is a holy thing, (ſaith the <hi>Civili<g ref="char:EOLhyphen"/>an</hi>) hence the <hi>Lawyers</hi> were ſometimes called <hi>Sacerdotes,</hi> becauſe it is a kind of a holy thing to judge and pronounce ſentence; you are to look higher then to men, even unto God himſelf. The <hi>Romans</hi> are much commended for their <hi>Juſtice,</hi> yet their actions were but <hi>ſplendida peccata,</hi> refined ſins: <hi>Ariſtides</hi> the juſt was but a <hi>Glow<g ref="char:EOLhyphen"/>worm,</hi> and ſevere <hi>Cato</hi> but a <hi>Blazing-ſtar; Vincit amor patriae lau<g ref="char:EOLhyphen"/>dum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> immenſa cupido,</hi> the praiſe of men overcame them; you muſt not walke by this rule, This man muſt be condemned, the people will have it ſo, and the City will have it ſo; but will the Lord have it ſo?</p>
+            <p n="4">4. Deliberately and adviſedly, howſoever it be queſtioned, whether a Magiſtrate may releaſe the puniſhments of ſins, yet that he may delay, all agree; <hi>Truth</hi> is the daughter of <hi>Time, Alius dies
+<pb n="7" facs="tcp:121205:6"/>de alio judicat, de omnibus ſupremus;</hi> one day judges of another, and the laſt of all; an act of <hi>Juſtice</hi> ought to flow from mature delibe<g ref="char:EOLhyphen"/>ration, and adviſed attendency: It is ſaid of <hi>Lewis</hi> King of <hi>France,</hi> that when hee had through inadvertency granted an unjuſt thing, as ſoon as hee read that verſe in this Pſalme, <hi>Bleſſed is hee that doth righteouſly at all times,</hi> preſently recalled himſelf; eſpecially there ought to be deliberation, when it is above the life or death of men: When <hi>Theodoſius</hi> had raſhly killed many in a City, which did much trouble him, afterwards it was ordered, that thirty dayes ſhould intervene between the ſentence and execution; <hi>Poteſt dilata poena exigi, exacta revocari non poteſt,</hi> deferred puniſhment may be executed when we will, but if once executed, it cannot be recal<g ref="char:EOLhyphen"/>led.</p>
+            <p n="5">5. With much godly pity and compaſſion; A <hi>Butcher</hi> (they ſay) may not be of the <hi>Jury,</hi> much leſſe may hee be a <hi>Judge;</hi> and certainly there is juſt cauſe of great relenting, whether we conſider our ſelves or others; our ſelves, who are of the ſame mould, and ſubject to the ſame temptations as others; though wee may de<g ref="char:EOLhyphen"/>light in <hi>Juſtice,</hi> yet to do it as it is the evill and griefe of another, ſo to be glad of it, this is very ſinfull; and though you may have much Religion and Piety in your breaſts, yet ſowreneſſe and ſe<g ref="char:EOLhyphen"/>verity doth much diſcourage: how did <hi>Joſhua</hi> ſpeak to <hi>Achan, My ſonne, give glory to God;</hi> where there is <hi>Juſtice</hi> within, and no<g ref="char:EOLhyphen"/>thing but auſterity without, it is like thoſe houſes where they ſay treaſures of Gold are, but the place is ſo haunted with ſpirits, that none dare come neer; though there be <hi>Piety</hi> and <hi>Juſtice,</hi> yet <hi>Paſ<g ref="char:EOLhyphen"/>ſion</hi> and <hi>Frowardneſſe</hi> hinder others from being made partakers of it: It is remarkable of <hi>David,</hi> that when the news of <hi>Sauls</hi> death was brought, he rejoyced not at all, though it was greatly to his outward advantage, but wept and bewailed him.</p>
+            <p n="6">6. With ſure <hi>Knowledge</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nderſtanding;</hi> it is obſerved of all, <hi>Gen.</hi> 18. as a pattern in <hi>judgement, I will deſcend and ſee, if it be ſo:</hi> ſo <hi>Job</hi> 29. <hi>If I did not ſearch out the cauſe, that was too hard for mee;</hi> the <hi>Judges</hi> had an Image with a Jewell upon it, that was called <hi>Truth,</hi> and a multitude of bookes lying by, to ſhew the <hi>Knowledge</hi> of the <hi>Judge;</hi> and this made <hi>Solomon</hi> ſo pray for <hi>Wiſ<g ref="char:EOLhyphen"/>dome:</hi> In matters of life and death, proofs ought to be full; there<g ref="char:EOLhyphen"/>fore
+<pb n="8" facs="tcp:121205:7"/>
+               <hi>Moſes</hi> ordered, that if there fell out matters too hard for in<g ref="char:EOLhyphen"/>feriour Courts, they ſhould go to the higher; you are to give phyſick to the Common-wealth, and <hi>Ignorance</hi> may indanger the whole; beſides, <hi>Knowledge</hi> is not enough, but <hi>Prudence</hi> is requiſite, which is, <hi>Rectaratio agibilium,</hi> the right way of ordering things; the Phyſician hath not <hi>Knowledge</hi> enough, when it is <hi>Theoreticall,</hi> but it muſt alſo be <hi>Practicall;</hi> therefore, <hi>know what you do,</hi> for there is nothing that you judge, but God will judge, yea, the world will judge it over and over again.</p>
+            <p n="7">7. With Courage and Boldneſſe; Much oppoſition, and ha<g ref="char:EOLhyphen"/>tred, will alwayes be in the way of juſtice; but the Rule is, <hi>Fiat juſtitia, &amp; ruat mundus;</hi> Let juſtice be done, though the world be ruin'd: and that is a true ſaying, <hi>Odia qui nimium timet regnare neſcit;</hi> He that feares the hatred of men too much, knows not how to governe. You will find that to reſiſt Friends, and to overlook Enemies, in this your worke, will be difficult; To have friends intreating, and to have Enemies reviling, will be a great temptation. Magiſtracy is called <hi>Cos hominis,</hi> the Whet-ſtone of a man; it is not onely a Touch-ſtone, to try what a man is, but a Whet-ſtone alſo, to quicken him in that worke. <hi>Saul</hi> when he was called to the government, had ano<g ref="char:EOLhyphen"/>ther ſpirit; and doe you pray, That as the worke you have, is other worke then you have had, ſo your ſpirit alſo may be other<g ref="char:EOLhyphen"/>wiſe; Eſpecially, harden your ſelves againſt worldly feares. It is noted by ſome Expoſitors, that <hi>Moſes</hi> when he had killed the <hi>Aegyptian,</hi> he looked up and downe, as being afraid, which (they ſay) was his weakneſſe, and corruption. Let that be true of you, which was ſaid of <hi>Chryſoſtome, That he feared nothing but ſinne.</hi>
+            </p>
+            <p n="8">8. With much Patience; See what a world of Cenſures you muſt lie under; ſome will ſay, you are too ſevere; ſome, you are too mercifull; ſome, that you doe nothing; ſome, that you doe too much; and how much patience muſt here be? And there is nothing more unſtable, then the people, who as they are earneſt for juſtice, ſo when it is done, doe relent and pittie thoſe that ſuffer, as if wrong were done to them.</p>
+            <p n="9">9. With much Fervor and Zeale; This is the cauſe of Cou<g ref="char:EOLhyphen"/>rage;
+<pb n="9" facs="tcp:121205:7"/>
+               <hi>Adami voluntas non habuit fortitudinem, quia non habuit fer<g ref="char:EOLhyphen"/>vorem;</hi> It was <hi>Bernards</hi> ſaying, <hi>Adams will had not ſtrength to en<g ref="char:EOLhyphen"/>dure, becauſe it had not fervency and zeale.</hi> The righteous are com<g ref="char:EOLhyphen"/>pared to Palme trees, now they love hot Regions, and ſo doth Juſtice a zealous heart. And terrible is that inſtance of <hi>Eli,</hi> he did ſomething, yet becauſe he was not zealous, and fervent, how was he puniſhed by the Lord? Every Sacrifice was to have fire; and let your hearts alſo burne with fire, for the glory of God, and the good of the Common-wealth.</p>
+            <p>Laſtly, This Zeale muſt be pure, as an act of Juſtice, and out of Love too, or it may be thy murther, while it is Juſtice: hence <hi>Numb.</hi> 25. <hi>Phinehas</hi> his zeale is called <hi>the Lords zeale;</hi> the fire it muſt be pure Elementary, not Culinary, or baſely feeding upon carnall reſpects. Among the <hi>Thebans,</hi> the Images of their Judges, were without hands and blinde, that ſo no bribing nor compaſſi<g ref="char:EOLhyphen"/>on might divert them from Juſtice.</p>
+            <p>And theſe are the Things which hinder pure Juſtice:</p>
+            <p>Firſt, Malice and Revengefull thoughts; Anger and Envy are preſent Peſts to all Courts and Governments. It was a good ſpeech of <hi>Alphonſus,</hi> That if he had lived in thoſe times when the Roman Common-wealth was almoſt conſumed with mutu<g ref="char:EOLhyphen"/>all jarres, he would have built a Temple <hi>Jovi poſitorio,</hi> wherein men ſhould have depoſited and laine downe all heart-burnings, before they entered into the Senate. How neceſſary is ſuch a place for men, before they come into Courts, into Committees, into any publique Judicatures, where they may meet and lay downe all heart-burnings and private grudgings, that the publique cauſe may be promoted?</p>
+            <p>Secondly, Partialitie hinders Juſtice; Juſtice is often compa<g ref="char:EOLhyphen"/>red to the Ballance; now you know that the Ballance doth e<g ref="char:EOLhyphen"/>qually weigh gold and iron, it makes no difference; And ſo ought you to make no difference between poore and rich, between high and low, between friends and ſtrangers; you are to be like <hi>Mel<g ref="char:EOLhyphen"/>chiſedec,</hi> in this reſpect, <hi>without father or mother,</hi> or any private relations.</p>
+            <p>Thirdly, Covetouſneſſe doth prejudice Juſtice: Though your Martiall Court were a Paradiſe, yet if this ſubtle Serpent creepe
+<pb n="10" facs="tcp:121205:8"/>into it, it will ſpoile all; this is called <hi>the Root of all evill;</hi> and the Judges were to be men <hi>hating Covetouſneſſe.</hi>
+            </p>
+            <p>Fourthly, Carnall or worldly Applauſe; to doe what may pleaſe others; You are not ambitiouſly to affect the glory, either of ſevere men, or of mercifull men, but to have a Temperament of both; like that juſtice of Gods which is tempered with much mercy.</p>
+            <p>Now that all theſe things may be done, take ſome Theologi<g ref="char:EOLhyphen"/>call Rules; which will ſerve for your Information.</p>
+            <p>Firſt, Whatſoever puniſhment comes upon a man by your falſe judgement, the guilt will returne upon your owne heads, their bloud, their death, their loſſe will be your ſin. And on the other ſide, the ſinfull acquitting of any, and the ſad effects there<g ref="char:EOLhyphen"/>of, will alſo be reckon'd upon your skore; therefore take heed what you doe, leſt you bring a curſe upon your ſelves, and upon your poſteritie alſo.</p>
+            <p>Secondly, You are to know, that puniſhments are of two kinds: Firſt, There are ſuch as are immediately commanded by the Law of God, or are evidenced by the Law of Nature. And here though it be ſeriouſly diſputed among Divines, Whether a Magiſtrate may remit that puniſhment, which by Gods Law is preſcribed; yet that opinion ſeemes ſafeſt, which doth wholly de<g ref="char:EOLhyphen"/>ny it: and the reaſon is cogent, Becauſe that if the Magiſtrate ſhould releaſe the puniſhment which God hath commanded, he ſhould then <hi>remittere de alieno,</hi> releaſe anothers right, which is Gods; and that is altogether unlawfull. Hence it is that our Di<g ref="char:EOLhyphen"/>vines doe juſtly condemne thoſe Sanctuaries and Refuges in ho<g ref="char:EOLhyphen"/>ly places, (as they call them) for wilfull murther, becauſe here Gods Law doth ſtrictly binde them up: As alſo they condemne the practiſe of letting Malefactors looſe at the time of Eaſter, which was a cuſtome of the Chriſtian Emperours: So that cu<g ref="char:EOLhyphen"/>ſtome of the <hi>Jewes</hi> looſing a Malefactor, though he were a mur<g ref="char:EOLhyphen"/>therer, is judged unlawfull by them. But then in the ſecond place, There are puniſhments, that are by a meere poſitive Law; and in theſe much moderation may be uſed without any guilt upon the Kingdome; For ſeeing humane Lawes are imperfect, and men could not poſſibly foreſee all cauſes and circumſtances, there is a
+<pb n="11" facs="tcp:121205:8"/>greater latitude left to them; therefore the Rule is, <hi>Summum jus eſt ſumma injuria:</hi> So that the puniſhments which are by poſitive Lawes, muſt be interpreted according unto the affecti<g ref="char:EOLhyphen"/>on and ſenſe of the Law-giver, or of other Lawes, or the ſafetie and benefit of the Common-wealth.</p>
+            <p>Thirdly, In all acts of Judgement, eſpecially thoſe of death, it is ſafer to incline to Clemency, then to Severitie; onely this Caution muſt be taken along; That wherein there is an expreſſe command of God, or evident profit of the Common-wealth, there muſt be Severitie. <hi>Sauls</hi> pittie in ſparing <hi>Agag,</hi> was crueltie to his own ſelfe; and that can never be Clemency, which is op<g ref="char:EOLhyphen"/>poſite to true Juſtice: But yet where neither of thoſe two is, then we ought to incline to Moderation, and Clemency. Howſoever that man is much commended, whoſe Tribunall was called <hi>Sco<g ref="char:EOLhyphen"/>pulus reorum,</hi> the Rock where all guiltie perſons were ſplitted; yet <hi>Nero's</hi> ſpeech hath greater praiſe, who when he was to ſub<g ref="char:EOLhyphen"/>ſcribe to the death of a man condemned, would ſay, <hi>
+                  <g ref="char:V">Ʋ</g>tinam neſcirem literas,</hi> I wiſh I did not know how to write. For there are theſe things, that may move to Clemency:</p>
+            <p>Firſt, The Conſideration of mans fraile nature, how all ſinne is contained in him; and therefore <hi>Rom.</hi> 3. thoſe words; <hi>Their Feet are ſwift to ſhed bloud;</hi> which are ſpoken by the Pſalmiſt of thoſe enemies of the Church, are applyed by the Apoſtle to every particular man by nature.</p>
+            <p>Secondly, The Corrigibilitie and relenting of the Offender, may much procure Clemency: It is true indeed that herein Spiri<g ref="char:EOLhyphen"/>tuall Puniſhments differ from Civill; In ſpirituall, if the partie repent, they ought not to inſlict them; but in Civill, the Magi<g ref="char:EOLhyphen"/>ſtrate he doth it howſoever, becauſe he looks at the good of the Common-wealth; yet where men are not ſtraighten'd by the command of God, if they doe ſee Corrigibilitie in perſons of<g ref="char:EOLhyphen"/>fending, they have the greater libertie for their Clemency. And upon this ground it was, that <hi>Auſtin</hi> did intercede to the Civill Magiſtrate for offenders; <hi>Intercedimus, etſi non pro ſecleratis ſcele<g ref="char:EOLhyphen"/>rati, tamen pro peccatoribus peccatores.</hi>
+            </p>
+            <p>Thirdly, There is a great difference between Principalls, and thoſe that are Acceſſaries; between thoſe that were the cauſe of
+<pb n="12" facs="tcp:121205:9"/>the Streame, and thoſe that are carried away by it.</p>
+            <p>Laſtly, Mans Law uſeth to make a great difference between thoſe that actually have wrought miſchiefe to the Common<g ref="char:EOLhyphen"/>wealth, and thoſe that have been in the preparations and endea<g ref="char:EOLhyphen"/>vours of it onely.</p>
+            <p>The fourth and laſt Rule is;</p>
+            <p>That in a judiciall proceſſe, though the Law may condemne a man, yet a Judge ought not to goe againſt his owne Conſci<g ref="char:EOLhyphen"/>ence, if he have juſt grounds for the acquitting of the man con<g ref="char:EOLhyphen"/>demned. It is true, all the Popiſh Caſuiſts almoſt, determine, That he muſt proceed to Condemnation, otherwiſe (ſay they) a doore will be left open to all Judges, to pretend Conſcience, as they pleaſe, and ſo no juſtice will be done; therefore the Rule is, <hi>Illud tantum Judex novit quod novit judicialiter,</hi> That onely the Judge knowes, which he knowes as a Judge: But this can<g ref="char:EOLhyphen"/>not ſtand with the Scripture, which requires, that <hi>whatſoever wee doe, ſhould be done out of Faith,</hi> that is, a Conſcience and per<g ref="char:EOLhyphen"/>ſwaſion of the thing to be lawfull. And there are other remedies for a Judge in this caſe; As, to appeale to the Supreame, or to delay and reſpite, or to lay downe his Commiſſion, if he cannot help the innocent otherwiſe.</p>
+            <p>The Uſe of Exhortation, from all this, is, to take theſe things ſeriouſly into your heart; Defile not the Land with falſe Judgement, as much as the Delinquents have defiled it by their offences; Let no mans life, nor no mans death witneſſe againſt you; and in all the Juſtice that you doe, eſpecially ſee that it be out of pure love to Juſtice, and no other reſpects whatſoe<g ref="char:EOLhyphen"/>ver. Conſider that of <hi>Jehu, Hoſea</hi> 1.4. God would avenge the bloud of <hi>Jezreel</hi> upon the houſe of <hi>Jehu,</hi> yet the fact of <hi>Jehu</hi> in it ſelfe was Juſtice; and God ſaid, <hi>Hee had done all that was right in his ſight:</hi> therefore God may be avenged on you, even for that which is a righteous action, if not done by you out of love to righteouſneſſe. Conſider, why the Lord hath brought all thoſe evills upon our Adverſaries, hath not injuſtice and guilt of bloud done it? God forbid then, that Partialitie, or Friends, ſhould carry you into the ſame ſinnes. Remember, that as you judge others, ſo God will judge you, and men alſo.
+<pb n="13" facs="tcp:121205:9"/>And conſider, that when wee ſtand up to execute the judge<g ref="char:EOLhyphen"/>ments of the Lord, the Lord may ceaſe from bringing any fur<g ref="char:EOLhyphen"/>ther judgements upon us.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
